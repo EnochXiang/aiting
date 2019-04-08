@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="47.92.162.111">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/app/AI/Rec/aiting" local="$PROJECT_DIR$" web="/home/app/AI/Rec/aiting" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
